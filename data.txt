@@ -1,0 +1,5 @@
+Un tipo de archivo en el que todos los valores estan delimitados por comas,CSV
+Crear un segundo nombre para una variable metodo,alias
+Usado para definir una funcion,def
+Simbolo para heredar de otra clase,<
+chomp opera al principio y final de las cadenas?,no
